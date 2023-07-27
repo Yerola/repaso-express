@@ -1,3 +1,5 @@
+[https://github.com/Yerola/repaso-express/blob/main/Invitacion-SUP-M3.jpg](https://github.com/Yerola/repaso-express/blob/main/Invitacion-SUP-M3.jpg?raw=true)
+
 Repaso M3 dentro del espacio del SUP by
 Emiliano Alfonso (actualmente Ssr. Software Engineer en Mercado Libre)
 
