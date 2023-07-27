@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 Repaso M3 dentro del espacio del SUP by
 Emiliano Alfonso (actualmente Ssr. Software Engineer en Mercado Libre)
 
@@ -16,5 +18,3 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Ar
 https://regexr.com/
 
 https://www.linkedin.com/in/emiliano-alfonso/
-
-(https://raw.githubusercontent.com/Yerola/repaso-express/main/Invitacion-SUP-M3.jpg)
