@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/Yerola/repaso-express/assets/108998939/0533c092-4acd-473c-b243-89a7b9a31537)
 
 Repaso M3 dentro del espacio del SUP by
 Emiliano Alfonso (actualmente Ssr. Software Engineer en Mercado Libre)
