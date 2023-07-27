@@ -17,4 +17,4 @@ https://regexr.com/
 
 https://www.linkedin.com/in/emiliano-alfonso/
 
-https://github.com/Yerola/repaso-express/blob/main/Invitacion-SUP-M3.jpg?raw=true
+https://raw.githubusercontent.com/Yerola/repaso-express/main/Invitacion-SUP-M3.jpg
